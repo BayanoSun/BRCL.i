@@ -4,11 +4,11 @@ font-family: 'Dancing Script', cursive;
 font-family: 'Rubik Mono One', sans-serif;**/
 html{
     background: url(beachBackground.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  margin: 0;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: 0;
 }
 .form-control::placeholder {
     color: #74594E;
