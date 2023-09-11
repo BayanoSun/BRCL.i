@@ -3,7 +3,7 @@ font-family: 'Barriecito', cursive;
 font-family: 'Dancing Script', cursive;
 font-family: 'Rubik Mono One', sans-serif;**/
 html{
-    background: url(beachBackground.JPG) no-repeat center center fixed; 
+    background: url('./BRCL.i/beachBackground.JPG') no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
