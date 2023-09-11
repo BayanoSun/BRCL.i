@@ -4,7 +4,7 @@ font-family: 'Dancing Script', cursive;
 font-family: 'Rubik Mono One', sans-serif;**/
 html{
     background: url(assets/css/beachBackground.jpg) no-repeat center center fixed; 
-    background-size: cover;
+    background-size: 95%;
     margin: 0;
 }
 .form-control::placeholder {
